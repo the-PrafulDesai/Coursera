@@ -1,4 +1,5 @@
 Coursera Course Assignments
+
 This repository contains assignments completed by Praful Desai for various Coursera courses. The purpose of this repository is to showcase the practical exercises and projects completed throughout these courses. Each assignment is organized in a separate folder, containing the necessary files and documentation for the respective assignment.
 
 Course Overview
